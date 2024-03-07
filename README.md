@@ -2,6 +2,7 @@
 # Sistema Biblioteca 2.0
 
 O objetivo deste projeto é desenvolver um sistema de gerenciamento de biblioteca 2.0 em Java. 
+Continuação do repositório: [Gerenciamento Biblioteca] (https://github.com/phmoreiraf/GerenciamentoBiblioteca)
 
 ## Alunos integrantes da equipe
 
